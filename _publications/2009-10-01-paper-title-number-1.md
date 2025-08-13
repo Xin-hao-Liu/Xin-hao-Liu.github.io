@@ -3,6 +3,7 @@ title: "Does the conversion of household registration actually improve the happi
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Liu X, Han L, Yuan B. Does the conversion of household registration actually improve the happiness of migrant workers in China?[J]. International Journal of Environmental Research and Public Health, 2020, 17(8): 2661.'
 ---
