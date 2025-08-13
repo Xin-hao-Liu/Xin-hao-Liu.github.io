@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year PhD candidate in Economics at Shandong University. My research interests span Labor, Health and AI technology.
+I’m a PhD candidate in Economics at Shandong University. My research interests: Labor, Aging and AI.
