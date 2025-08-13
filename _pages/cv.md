@@ -21,3 +21,7 @@ Education
 Computer Skills
 ======
 * Python, R, LaTeX, Stata, Julia
+
+Contact
+======
+* madaoecox@gmail.com
